@@ -1,5 +1,3 @@
-# qaifu
-Config files for my GitHub profile.
 Module Module1
 
     Dim alpha() As String = {"a", "b", "c", "d", "e", "f", "g", "h"}
